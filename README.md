@@ -1,0 +1,2 @@
+# djangoclasswork
+just for fun
